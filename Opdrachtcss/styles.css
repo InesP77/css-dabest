@@ -1,0 +1,24 @@
+body { 
+    color: rgb(5, 65, 114);
+    background-color: rgba(223, 241, 238, 0.678);
+}
+.blue-border {
+    border: 2px solid rgb(43, 118, 141);
+}
+.green-background {
+    background-color: rgb(138, 221, 221);
+}
+.black-border {
+    border: 2px solid rgb(13, 139, 13);
+}
+h1{
+    color: rgb(9, 66, 139);
+    font-family: verdana;
+    font-size: 200%;
+}
+h2{
+    color: rgb(31, 110, 44);
+    font-family: lucida handwriting;
+    font-size: 100%;
+} 
+  
